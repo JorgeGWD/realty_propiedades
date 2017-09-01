@@ -1,2 +1,2 @@
 # realty_propiedades
-Sitio web de inmobiliario, realizado en Joomla.
+Sitio web inmobiliario, realizado en Joomla.
